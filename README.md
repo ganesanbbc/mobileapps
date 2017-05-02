@@ -1,8 +1,8 @@
 # moibleapps
 
-ThePostBox - White label app 
-ArtGallery App 
-GPS Tracker
-Dr.Appointment
-VR Space - Learning App
-Truck management
+ThePostBox - White label app \n
+ArtGallery App \n
+GPS Tracker\n
+Dr.Appointment\n
+VR Space - Learning App\n
+Truck management\n
